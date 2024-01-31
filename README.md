@@ -1,0 +1,2 @@
+# Django
+Видеокурс по Django
