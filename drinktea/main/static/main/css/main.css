@@ -1,14 +1,14 @@
 body {
     background-color: #f0f8f7; /* светло-зелёный фон */
     color: #333; /* тёмный текст */
-    font-family: Arial, sans-serif;
+    font-family: 'Lemon/Milk(RUS BY LYAJKA)';
     margin: 0;
     padding: 0;
 }
 
 header {
     background-color: #7eff9e; /* светло-зелёный заголовок */
-    padding: 1rem;
+    padding: 1%;
     text-align: center;
 }
 
@@ -19,7 +19,8 @@ section {
 
 footer {
     background-color: #7eff9e; /* светло-зелёный футер */
-    padding: 1%;
-    margin-top: 30%;
+    margin-top: 29%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     text-align: center;
 }
