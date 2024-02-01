@@ -7,18 +7,18 @@
     <title>{% block title %}{% endblock %}</title>
 </head>
 <body>
-    <aside>
-        <h3>Навигация</h3>
-        <ul>
-            <a href=""><li>Главная</li></a>
-            <a href=""><li>Про нас</li></a>
-            <a href=""><li>Контакты</li></a>
-        </ul>
-    </aside>
-    <main>
-        {% block content %}
-        {% endblock %}
-    </main>
+
+  <header>
+    <h1>drinktea</h1>
+  </header>
+
+  <section>
+      {% block content %}{% endblock %}
+  </section>
+
+  <footer>
+    &copy; 2024 drinktea. Все права защищены
+  </footer>
 
 </body>
 </html>

@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f8f7; /* светло-зелёный фон */
+    color: #333; /* тёмный текст */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #7eff9e; /* светло-зелёный заголовок */
+    padding: 1rem;
+    text-align: center;
+}
+
+section {
+    padding: 2%;
+    margin-left: 35%;
+}
+
+footer {
+    background-color: #7eff9e; /* светло-зелёный футер */
+    padding: 1%;
+    margin-top: 30%;
+    text-align: center;
+}
